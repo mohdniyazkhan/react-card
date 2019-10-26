@@ -1,0 +1,55 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.iconbox{
+  margin-top: 15px;
+}
+.icon{
+  width: 20px;
+  height: 20px;
+  padding-left: 10px;
+}
+.iconword{
+  font-size: 10px;
+  padding-left: 10px;
+  padding-right: 50px;
+  position: relative;
+}
+
+.adbox{
+  height: 100%;
+  width: 550px;
+  border-radius: 10px ;
+  margin:auto;
+
+}
+.adbox-inner{
+  width: 100%;
+  height: 100%;
+  margin-bottom: 20px;
+  box-shadow: rgb(155, 124, 108) 3px 5px 10px;
+  border: 1px solid #e5e5e5;
+  padding: 15px;
+
+}
+.image-banner{
+  width: 100%;
+  height: 100%;
+}
+.wordbox{
+  padding: 15px;
+  font-size: 14px;
+  line-height: 21px;
+}
+.text-heading{
+  width: 100%;
+  color: #000000;
+  font-weight: bold;
+  font-size: 15px;
+}
+.text-inner{
+  font-weight: 400;
+  font-size: 14px;
+  padding-bottom: 10px;
+}
